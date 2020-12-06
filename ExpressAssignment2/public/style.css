@@ -1,0 +1,19 @@
+h1{
+    font-size: 48px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+body{
+    background-color: aqua;
+}
+#img{
+    margin: 0%;
+    width: 100%;
+    
+    display: block;
+}
+#list{
+    color: red;
+}
+
